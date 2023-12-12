@@ -1,24 +1,9 @@
 # homewark
 
-## Project setup
-```
-npm install
-```
+версия node.js - 20.10.0
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Запуск:
+1) git clone https://github.com/ShIGUvdk/homewark.git
+2) cd homewark
+3) npm install
+4) npm run serve
